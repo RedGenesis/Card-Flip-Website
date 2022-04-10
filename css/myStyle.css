@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+   height:375px;
+   width: auto;
+}
+
+.buttonDiv {
+    padding-bottom: 15px;
+    position: relative;
+    text-align: center;
+}
